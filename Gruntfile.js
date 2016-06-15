@@ -29,4 +29,7 @@ module.exports = function(grunt) {
     grunt.registerTask("task10", function() {
         console.log("task10");
     });
+    grunt.registerTask("task11", function() {
+        console.log("task11");
+    });
 };
